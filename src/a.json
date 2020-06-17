@@ -1,0 +1,62 @@
+[
+  {
+    "Algorithm #3": 0.11,
+    "Algorithm #2": 1.02,
+    "category": 10,
+    "Algorithm #1": 13.03
+  },
+  {
+    "Algorithm #3": 0.12,
+    "Algorithm #2": 1.26,
+    "category": 20,
+    "Algorithm #1": 11.84
+  },
+  {
+    "Algorithm #3": 0.11,
+    "Algorithm #2": 1.47,
+    "category": 30,
+    "Algorithm #1": 13.05
+  },
+  {
+    "Algorithm #3": 0.11,
+    "Algorithm #2": 1.43,
+    "category": 40,
+    "Algorithm #1": 10.31
+  },
+  {
+    "Algorithm #3": 0.11,
+    "Algorithm #2": 1.14,
+    "category": 50,
+    "Algorithm #1": 12.63
+  },
+  {
+    "Algorithm #3": 0.12,
+    "Algorithm #2": 1.56,
+    "category": 60,
+    "Algorithm #1": 11.37
+  },
+  {
+    "Algorithm #3": 0.13,
+    "Algorithm #2": 1.46,
+    "category": 70,
+    "Algorithm #1": 12.8
+  },
+  {
+    "Algorithm #3": 0.11,
+    "Algorithm #2": 1.25,
+    "category": 80,
+    "Algorithm #1": 11.34
+  },
+  {
+    "Algorithm #3": 0.1,
+    "Algorithm #2": 1.35,
+    "category": 90,
+    "Algorithm #1": 10.75
+  },
+  {
+    "Algorithm #3": 0.12,
+    "Algorithm #2": 1.41,
+    "category": 100,
+    "Algorithm #1": 10.58
+  }
+]
